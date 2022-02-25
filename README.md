@@ -1,1 +1,1 @@
-# JavaTraining2ndAssignment
+# Java Training 2nd Assignment
