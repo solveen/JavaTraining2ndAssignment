@@ -2,9 +2,9 @@ package QuestionNumberFour;
 
 public abstract class Bank {
 
-    private double BankA = 1000d;
-    private double BankB = 1500d;
-    private double BankC = 2000d;
+    private double BankA = 1000.00d;
+    private double BankB = 1500.00d;
+    private double BankC = 2000.00d;
     //private variables need getter and setter to be accessed by other classes.
 
    public abstract void getBalance();
